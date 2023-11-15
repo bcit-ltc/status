@@ -3,14 +3,22 @@ owner: BCIT-LTC # Your GitHub organization or username, where this repository li
 repo: status # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
+  - name: Legacy LTC
+    url: https://ltc.bcit.ca
+  - name: Sugar Suite
+    url: https://sugar-suite.ltc.bcit.ca
   - name: CORGI
     url: https://corgi.ltc.bcit.ca
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: H5P
+    url: https://h5p.commons.bcit.ca
+  - name: ETS Help Centre
+    url: https://ets-help-centre.ltc.bcit.ca
+  - name: Conversion Guide
+    url: https://conversion-guide.ltc.bcit.ca
+  - name: Course Workload Estimator
+    url: https://course-workload-estimator.ltc.bcit.ca
+  - name: Keycloak
+    url: https://keycloak.ltc.bcit.ca
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
