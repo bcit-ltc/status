@@ -27,7 +27,8 @@ status-website:
   baseUrl: /status
   # logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: status
-  introTitle: BCIT LTC Services - Status page
+  introTitle: BCIT LTC Services
+  themeUrl: https://bcit-ltc.github.io/status/custom.css
   introMessage: 
   # navbar:
   #   - title: Status
