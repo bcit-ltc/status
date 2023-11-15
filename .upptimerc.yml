@@ -11,8 +11,8 @@ sites:
     url: https://corgi.ltc.bcit.ca
   - name: H5P
     url: https://h5p.commons.bcit.ca
-  - name: ETS Help Centre
-    url: https://ets-help-centre.ltc.bcit.ca
+  # - name: ETS Help Centre
+  #   url: https://ets-help-centre.ltc.bcit.ca
   - name: Conversion Guide
     url: https://conversion-guide.ltc.bcit.ca
   - name: Course Workload Estimator
@@ -34,6 +34,9 @@ status-website:
   #     href: /
   #   - title: GitHub
   #     href: https://github.com/$OWNER/$REPO
+
+status-website:
+  theme: light
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
