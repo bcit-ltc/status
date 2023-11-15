@@ -4,12 +4,12 @@ repo: status # The name of this repository
 
 sites:
   - name: Legacy LTC
-    url: https://ltc.bcit.ca
+    url: https://ltc.bcit.ca/multimedia/
   - name: Sugar Suite
     url: https://sugar-suite.ltc.bcit.ca
   - name: CORGI
     url: https://corgi.ltc.bcit.ca
-  - name: H5P
+  - name: Commons H5P
     url: https://h5p.commons.bcit.ca
   # - name: ETS Help Centre
   #   url: https://ets-help-centre.ltc.bcit.ca
@@ -27,7 +27,7 @@ status-website:
   baseUrl: /status
   # logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: status
-  introTitle: BCIT LTC Services
+  introTitle: BCIT LTC Service Status Dashboard
   # themeUrl: https://bcit-ltc.github.io/status/custom.css
   introMessage: 
   # navbar:
