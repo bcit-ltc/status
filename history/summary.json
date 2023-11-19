@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/sugar-suite.ltc.bcit.ca.ico",
     "slug": "sugar-suite",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 403,
-    "timeDay": 178,
-    "timeWeek": 403,
-    "timeMonth": 403,
-    "timeYear": 403,
+    "uptime": "98.74%",
+    "uptimeDay": "95.21%",
+    "uptimeWeek": "98.74%",
+    "uptimeMonth": "98.74%",
+    "uptimeYear": "98.74%",
+    "time": 394,
+    "timeDay": 292,
+    "timeWeek": 394,
+    "timeMonth": 394,
+    "timeYear": 394,
     "dailyMinutesDown": {
-      "2023-11-19": 0
+      "2023-11-19": 69
     }
   },
   {
@@ -78,19 +78,19 @@
     "url": "https://conversion-guide.ltc.bcit.ca",
     "icon": "https://icons.duckduckgo.com/ip3/conversion-guide.ltc.bcit.ca.ico",
     "slug": "conversion-guide",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 400,
-    "timeDay": 277,
-    "timeWeek": 400,
-    "timeMonth": 400,
-    "timeYear": 400,
+    "status": "up",
+    "uptime": "98.74%",
+    "uptimeDay": "95.21%",
+    "uptimeWeek": "98.74%",
+    "uptimeMonth": "98.74%",
+    "uptimeYear": "98.74%",
+    "time": 386,
+    "timeDay": 262,
+    "timeWeek": 386,
+    "timeMonth": 386,
+    "timeYear": 386,
     "dailyMinutesDown": {
-      "2023-11-19": 0
+      "2023-11-19": 69
     }
   },
   {
@@ -98,19 +98,19 @@
     "url": "https://course-workload-estimator.ltc.bcit.ca",
     "icon": "https://icons.duckduckgo.com/ip3/course-workload-estimator.ltc.bcit.ca.ico",
     "slug": "course-workload-estimator",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 338,
-    "timeDay": 323,
-    "timeWeek": 338,
-    "timeMonth": 338,
-    "timeYear": 338,
+    "status": "up",
+    "uptime": "98.74%",
+    "uptimeDay": "95.21%",
+    "uptimeWeek": "98.74%",
+    "uptimeMonth": "98.74%",
+    "uptimeYear": "98.74%",
+    "time": 323,
+    "timeDay": 267,
+    "timeWeek": 323,
+    "timeMonth": 323,
+    "timeYear": 323,
     "dailyMinutesDown": {
-      "2023-11-19": 0
+      "2023-11-19": 69
     }
   },
   {
@@ -118,19 +118,19 @@
     "url": "https://keycloak.ltc.bcit.ca",
     "icon": "https://icons.duckduckgo.com/ip3/keycloak.ltc.bcit.ca.ico",
     "slug": "keycloak",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 368,
-    "timeDay": 292,
-    "timeWeek": 368,
-    "timeMonth": 368,
-    "timeYear": 368,
+    "status": "up",
+    "uptime": "98.74%",
+    "uptimeDay": "95.20%",
+    "uptimeWeek": "98.74%",
+    "uptimeMonth": "98.74%",
+    "uptimeYear": "98.74%",
+    "time": 411,
+    "timeDay": 492,
+    "timeWeek": 411,
+    "timeMonth": 411,
+    "timeYear": 411,
     "dailyMinutesDown": {
-      "2023-11-19": 0
+      "2023-11-19": 69
     }
   }
 ]
