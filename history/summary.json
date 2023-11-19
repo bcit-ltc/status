@@ -24,7 +24,7 @@
     "slug": "sugar-suite",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 403,
     "timeMonth": 403,
     "timeYear": 403,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-19": 0
+    }
   },
   {
     "name": "CORGI",
@@ -76,53 +78,59 @@
     "url": "https://conversion-guide.ltc.bcit.ca",
     "icon": "https://icons.duckduckgo.com/ip3/conversion-guide.ltc.bcit.ca.ico",
     "slug": "conversion-guide",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 402,
-    "timeDay": 178,
-    "timeWeek": 402,
-    "timeMonth": 402,
-    "timeYear": 402,
-    "dailyMinutesDown": {}
+    "time": 400,
+    "timeDay": 277,
+    "timeWeek": 400,
+    "timeMonth": 400,
+    "timeYear": 400,
+    "dailyMinutesDown": {
+      "2023-11-19": 0
+    }
   },
   {
     "name": "Course Workload Estimator",
     "url": "https://course-workload-estimator.ltc.bcit.ca",
     "icon": "https://icons.duckduckgo.com/ip3/course-workload-estimator.ltc.bcit.ca.ico",
     "slug": "course-workload-estimator",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 321,
-    "timeDay": 131,
-    "timeWeek": 321,
-    "timeMonth": 321,
-    "timeYear": 321,
-    "dailyMinutesDown": {}
+    "time": 338,
+    "timeDay": 323,
+    "timeWeek": 338,
+    "timeMonth": 338,
+    "timeYear": 338,
+    "dailyMinutesDown": {
+      "2023-11-19": 0
+    }
   },
   {
     "name": "Keycloak",
     "url": "https://keycloak.ltc.bcit.ca",
     "icon": "https://icons.duckduckgo.com/ip3/keycloak.ltc.bcit.ca.ico",
     "slug": "keycloak",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 362,
-    "timeDay": 162,
-    "timeWeek": 362,
-    "timeMonth": 362,
-    "timeYear": 362,
-    "dailyMinutesDown": {}
+    "time": 368,
+    "timeDay": 292,
+    "timeWeek": 368,
+    "timeMonth": 368,
+    "timeYear": 368,
+    "dailyMinutesDown": {
+      "2023-11-19": 0
+    }
   }
 ]
