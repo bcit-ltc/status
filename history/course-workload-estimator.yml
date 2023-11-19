@@ -1,7 +1,7 @@
 url: https://course-workload-estimator.ltc.bcit.ca
-status: down
-code: 404
-responseTime: 514
-lastUpdated: 2023-11-19T01:25:49.919Z
+status: up
+code: 200
+responseTime: 155
+lastUpdated: 2023-11-19T02:34:50.957Z
 startTime: 2023-11-15T06:56:06.540Z
 generator: Upptime <https://github.com/upptime/upptime>
