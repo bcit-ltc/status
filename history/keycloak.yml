@@ -1,7 +1,7 @@
 url: https://keycloak.ltc.bcit.ca
 status: down
-code: 503
-responseTime: 153
-lastUpdated: 2024-01-22T23:02:33.477Z
+code: 502
+responseTime: 475
+lastUpdated: 2024-01-23T23:02:29.386Z
 startTime: 2023-11-15T06:56:07.308Z
 generator: Upptime <https://github.com/upptime/upptime>
