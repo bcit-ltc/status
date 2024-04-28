@@ -42,11 +42,11 @@
     "url": "https://corgi.ltc.bcit.ca",
     "icon": "https://icons.duckduckgo.com/ip3/corgi.ltc.bcit.ca.ico",
     "slug": "corgi",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 692,
     "timeDay": 5431,
@@ -54,7 +54,7 @@
     "timeMonth": 1059,
     "timeYear": 692,
     "dailyMinutesDown": {
-      "2024-04-28": 6
+      "2024-04-28": 0
     }
   },
   {
@@ -122,9 +122,9 @@
     "slug": "keycloak",
     "status": "down",
     "uptime": "97.57%",
-    "uptimeDay": "99.57%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "98.35%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "97.57%",
     "time": 357,
     "timeDay": 230,
@@ -132,7 +132,7 @@
     "timeMonth": 343,
     "timeYear": 357,
     "dailyMinutesDown": {
-      "2024-04-28": 6,
+      "2024-04-28": 24,
       "2024-01-25": 390,
       "2024-01-24": 1440,
       "2024-01-23": 1440,
