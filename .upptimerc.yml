@@ -19,6 +19,8 @@ sites:
     url: https://course-workload-estimator.ltc.bcit.ca
   - name: Keycloak
     url: https://keycloak.ltc.bcit.ca
+  - name: Qcon
+    url: https://qcon.ltc.bcit.ca
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
