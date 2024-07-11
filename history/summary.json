@@ -4,19 +4,19 @@
     "url": "https://ltc.bcit.ca/multimedia/",
     "icon": "https://icons.duckduckgo.com/ip3/ltc.bcit.ca.ico",
     "slug": "legacy-ltc",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.05%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 363,
-    "timeDay": 419,
-    "timeWeek": 399,
-    "timeMonth": 372,
+    "timeDay": 428,
+    "timeWeek": 404,
+    "timeMonth": 375,
     "timeYear": 363,
     "dailyMinutesDown": {
-      "2024-07-11": 0
+      "2024-07-11": 14
     }
   },
   {
