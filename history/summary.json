@@ -4,18 +4,20 @@
     "url": "https://ltc.bcit.ca/multimedia/",
     "icon": "https://icons.duckduckgo.com/ip3/ltc.bcit.ca.ico",
     "slug": "legacy-ltc",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 362,
-    "timeDay": 468,
-    "timeWeek": 380,
+    "time": 363,
+    "timeDay": 419,
+    "timeWeek": 399,
     "timeMonth": 372,
-    "timeYear": 362,
-    "dailyMinutesDown": {}
+    "timeYear": 363,
+    "dailyMinutesDown": {
+      "2024-07-11": 0
+    }
   },
   {
     "name": "Sugar Suite",
@@ -28,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 400,
-    "timeDay": 604,
-    "timeWeek": 441,
-    "timeMonth": 425,
-    "timeYear": 400,
+    "time": 401,
+    "timeDay": 544,
+    "timeWeek": 463,
+    "timeMonth": 428,
+    "timeYear": 401,
     "dailyMinutesDown": {
       "2023-11-19": 69
     }
@@ -49,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 720,
-    "timeDay": 770,
-    "timeWeek": 614,
-    "timeMonth": 780,
+    "timeDay": 708,
+    "timeWeek": 627,
+    "timeMonth": 778,
     "timeYear": 720,
     "dailyMinutesDown": {}
   },
@@ -67,9 +69,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 657,
-    "timeDay": 808,
-    "timeWeek": 728,
-    "timeMonth": 714,
+    "timeDay": 608,
+    "timeWeek": 712,
+    "timeMonth": 708,
     "timeYear": 657,
     "dailyMinutesDown": {}
   },
@@ -84,11 +86,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 413,
-    "timeDay": 448,
-    "timeWeek": 408,
+    "time": 414,
+    "timeDay": 593,
+    "timeWeek": 445,
     "timeMonth": 429,
-    "timeYear": 413,
+    "timeYear": 414,
     "dailyMinutesDown": {
       "2023-11-19": 69
     }
@@ -104,11 +106,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 349,
-    "timeDay": 467,
-    "timeWeek": 326,
-    "timeMonth": 366,
-    "timeYear": 349,
+    "time": 350,
+    "timeDay": 455,
+    "timeWeek": 359,
+    "timeMonth": 364,
+    "timeYear": 350,
     "dailyMinutesDown": {
       "2023-11-19": 69
     }
@@ -124,11 +126,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.92%",
-    "time": 355,
-    "timeDay": 450,
-    "timeWeek": 335,
-    "timeMonth": 356,
-    "timeYear": 355,
+    "time": 356,
+    "timeDay": 490,
+    "timeWeek": 371,
+    "timeMonth": 359,
+    "timeYear": 356,
     "dailyMinutesDown": {
       "2024-04-29": 137,
       "2024-04-28": 1277,
@@ -151,11 +153,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 372,
-    "timeDay": 419,
-    "timeWeek": 365,
-    "timeMonth": 383,
-    "timeYear": 372,
+    "time": 373,
+    "timeDay": 407,
+    "timeWeek": 385,
+    "timeMonth": 382,
+    "timeYear": 373,
     "dailyMinutesDown": {}
   }
 ]
