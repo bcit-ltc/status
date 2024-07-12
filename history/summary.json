@@ -6,18 +6,16 @@
     "slug": "legacy-ltc",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.05%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 363,
     "timeDay": 428,
     "timeWeek": 404,
     "timeMonth": 375,
     "timeYear": 363,
-    "dailyMinutesDown": {
-      "2024-07-11": 14
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Sugar Suite",
