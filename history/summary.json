@@ -4,11 +4,11 @@
     "url": "https://ltc.bcit.ca/multimedia/",
     "icon": "https://icons.duckduckgo.com/ip3/ltc.bcit.ca.ico",
     "slug": "legacy-ltc",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "99.74%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
     "time": 363,
     "timeDay": 201,
@@ -16,6 +16,7 @@
     "timeMonth": 372,
     "timeYear": 363,
     "dailyMinutesDown": {
+      "2024-07-14": 4,
       "2024-07-12": 19
     }
   },
@@ -24,11 +25,11 @@
     "url": "https://sugar-suite.ltc.bcit.ca",
     "icon": "https://icons.duckduckgo.com/ip3/sugar-suite.ltc.bcit.ca.ico",
     "slug": "sugar-suite",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.98%",
     "time": 400,
     "timeDay": 170,
@@ -36,6 +37,7 @@
     "timeMonth": 419,
     "timeYear": 400,
     "dailyMinutesDown": {
+      "2024-07-14": 3,
       "2023-11-19": 69
     }
   },
@@ -44,28 +46,30 @@
     "url": "https://corgi.ltc.bcit.ca",
     "icon": "https://icons.duckduckgo.com/ip3/corgi.ltc.bcit.ca.ico",
     "slug": "corgi",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 718,
     "timeDay": 455,
     "timeWeek": 606,
     "timeMonth": 766,
     "timeYear": 718,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-14": 3
+    }
   },
   {
     "name": "Commons H5P",
     "url": "https://h5p.commons.bcit.ca",
     "icon": "https://icons.duckduckgo.com/ip3/h5p.commons.bcit.ca.ico",
     "slug": "commons-h5-p",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 657,
@@ -73,17 +77,19 @@
     "timeWeek": 701,
     "timeMonth": 705,
     "timeYear": 657,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-14": 2
+    }
   },
   {
     "name": "Conversion Guide",
     "url": "https://conversion-guide.ltc.bcit.ca",
     "icon": "https://icons.duckduckgo.com/ip3/conversion-guide.ltc.bcit.ca.ico",
     "slug": "conversion-guide",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 414,
@@ -92,6 +98,7 @@
     "timeMonth": 421,
     "timeYear": 414,
     "dailyMinutesDown": {
+      "2024-07-14": 2,
       "2023-11-19": 69
     }
   },
@@ -100,10 +107,10 @@
     "url": "https://course-workload-estimator.ltc.bcit.ca",
     "icon": "https://icons.duckduckgo.com/ip3/course-workload-estimator.ltc.bcit.ca.ico",
     "slug": "course-workload-estimator",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 350,
@@ -112,6 +119,7 @@
     "timeMonth": 359,
     "timeYear": 350,
     "dailyMinutesDown": {
+      "2024-07-14": 1,
       "2023-11-19": 69
     }
   },
@@ -120,10 +128,10 @@
     "url": "https://keycloak.ltc.bcit.ca",
     "icon": "https://icons.duckduckgo.com/ip3/keycloak.ltc.bcit.ca.ico",
     "slug": "keycloak",
-    "status": "up",
+    "status": "down",
     "uptime": "97.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.94%",
     "time": 355,
@@ -132,6 +140,7 @@
     "timeMonth": 352,
     "timeYear": 355,
     "dailyMinutesDown": {
+      "2024-07-14": 1,
       "2024-04-29": 137,
       "2024-04-28": 1277,
       "2024-01-25": 390,
@@ -147,9 +156,9 @@
     "url": "https://qcon.ltc.bcit.ca",
     "icon": "https://icons.duckduckgo.com/ip3/qcon.ltc.bcit.ca.ico",
     "slug": "qcon",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -158,6 +167,8 @@
     "timeWeek": 359,
     "timeMonth": 380,
     "timeYear": 370,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-14": 0
+    }
   }
 ]
