@@ -47,18 +47,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/corgi.ltc.bcit.ca.ico",
     "slug": "corgi",
     "status": "down",
-    "uptime": "99.82%",
-    "uptimeDay": "56.83%",
-    "uptimeWeek": "93.83%",
-    "uptimeMonth": "98.58%",
-    "uptimeYear": "99.82%",
+    "uptime": "99.81%",
+    "uptimeDay": "53.90%",
+    "uptimeWeek": "93.41%",
+    "uptimeMonth": "98.48%",
+    "uptimeYear": "99.81%",
     "time": 718,
     "timeDay": 455,
     "timeWeek": 606,
     "timeMonth": 766,
     "timeYear": 718,
     "dailyMinutesDown": {
-      "2024-07-14": 622
+      "2024-07-14": 664
     }
   },
   {
@@ -66,19 +66,19 @@
     "url": "https://h5p.commons.bcit.ca",
     "icon": "https://icons.duckduckgo.com/ip3/h5p.commons.bcit.ca.ico",
     "slug": "commons-h5-p",
-    "status": "down",
-    "uptime": "99.82%",
-    "uptimeDay": "56.86%",
-    "uptimeWeek": "93.84%",
-    "uptimeMonth": "98.58%",
-    "uptimeYear": "99.82%",
-    "time": 657,
-    "timeDay": 613,
-    "timeWeek": 701,
-    "timeMonth": 705,
-    "timeYear": 657,
+    "status": "up",
+    "uptime": "99.81%",
+    "uptimeDay": "53.94%",
+    "uptimeWeek": "93.42%",
+    "uptimeMonth": "98.49%",
+    "uptimeYear": "99.81%",
+    "time": 671,
+    "timeDay": 2310,
+    "timeWeek": 1114,
+    "timeMonth": 805,
+    "timeYear": 671,
     "dailyMinutesDown": {
-      "2024-07-14": 621
+      "2024-07-14": 663
     }
   },
   {
