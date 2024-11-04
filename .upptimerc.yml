@@ -17,8 +17,8 @@ sites:
     url: https://conversion-guide.ltc.bcit.ca
   - name: Course Workload Estimator
     url: https://course-workload-estimator.ltc.bcit.ca
-  - name: Keycloak
-    url: https://keycloak.ltc.bcit.ca
+  # - name: Keycloak
+  #   url: https://keycloak.ltc.bcit.ca
   - name: Qcon
     url: https://qcon.ltc.bcit.ca
 
