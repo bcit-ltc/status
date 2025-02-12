@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
-    "time": 378,
-    "timeDay": 428,
-    "timeWeek": 382,
-    "timeMonth": 367,
-    "timeYear": 380,
+    "time": 377,
+    "timeDay": 185,
+    "timeWeek": 332,
+    "timeMonth": 359,
+    "timeYear": 379,
     "dailyMinutesDown": {
       "2024-07-14": 614,
       "2024-07-12": 19
@@ -31,10 +31,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
-    "time": 436,
-    "timeDay": 361,
-    "timeWeek": 383,
-    "timeMonth": 411,
+    "time": 435,
+    "timeDay": 234,
+    "timeWeek": 335,
+    "timeMonth": 402,
     "timeYear": 446,
     "dailyMinutesDown": {
       "2024-07-14": 621
@@ -52,9 +52,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.27%",
     "time": 693,
-    "timeDay": 645,
-    "timeWeek": 585,
-    "timeMonth": 607,
+    "timeDay": 391,
+    "timeWeek": 522,
+    "timeMonth": 600,
     "timeYear": 718,
     "dailyMinutesDown": {
       "2024-07-16": 1028,
@@ -74,10 +74,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
     "time": 679,
-    "timeDay": 749,
+    "timeDay": 573,
     "timeWeek": 622,
-    "timeMonth": 644,
-    "timeYear": 691,
+    "timeMonth": 639,
+    "timeYear": 690,
     "dailyMinutesDown": {
       "2024-07-14": 663
     }
@@ -93,10 +93,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
-    "time": 446,
-    "timeDay": 427,
-    "timeWeek": 418,
-    "timeMonth": 438,
+    "time": 445,
+    "timeDay": 209,
+    "timeWeek": 355,
+    "timeMonth": 426,
     "timeYear": 455,
     "dailyMinutesDown": {
       "2024-07-14": 620
@@ -113,10 +113,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
-    "time": 379,
-    "timeDay": 471,
-    "timeWeek": 304,
-    "timeMonth": 354,
+    "time": 378,
+    "timeDay": 147,
+    "timeWeek": 272,
+    "timeMonth": 346,
     "timeYear": 387,
     "dailyMinutesDown": {
       "2024-07-14": 620
@@ -128,16 +128,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/qcon.ltc.bcit.ca.ico",
     "slug": "qcon",
     "status": "up",
-    "uptime": "99.82%",
+    "uptime": "99.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.82%",
-    "time": 435,
-    "timeDay": 340,
-    "timeWeek": 356,
-    "timeMonth": 370,
-    "timeYear": 435,
+    "uptimeYear": "99.83%",
+    "time": 434,
+    "timeDay": 210,
+    "timeWeek": 306,
+    "timeMonth": 364,
+    "timeYear": 434,
     "dailyMinutesDown": {
       "2024-07-14": 619
     }
