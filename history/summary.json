@@ -6,17 +6,16 @@
     "slug": "legacy-ltc",
     "status": "up",
     "uptime": "99.90%",
-    "uptimeDay": "99.30%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
     "time": 377,
-    "timeDay": 312,
+    "timeDay": 445,
     "timeWeek": 346,
-    "timeMonth": 362,
-    "timeYear": 379,
+    "timeMonth": 370,
+    "timeYear": 380,
     "dailyMinutesDown": {
-      "2025-02-12": 10,
       "2024-07-14": 614,
       "2024-07-12": 19
     }
@@ -33,10 +32,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
     "time": 435,
-    "timeDay": 234,
-    "timeWeek": 335,
-    "timeMonth": 402,
-    "timeYear": 446,
+    "timeDay": 458,
+    "timeWeek": 341,
+    "timeMonth": 410,
+    "timeYear": 447,
     "dailyMinutesDown": {
       "2024-07-14": 621
     }
@@ -53,10 +52,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.27%",
     "time": 693,
-    "timeDay": 391,
-    "timeWeek": 522,
-    "timeMonth": 600,
-    "timeYear": 718,
+    "timeDay": 729,
+    "timeWeek": 543,
+    "timeMonth": 611,
+    "timeYear": 719,
     "dailyMinutesDown": {
       "2024-07-16": 1028,
       "2024-07-15": 1440,
@@ -75,10 +74,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
     "time": 679,
-    "timeDay": 573,
-    "timeWeek": 622,
-    "timeMonth": 639,
-    "timeYear": 690,
+    "timeDay": 735,
+    "timeWeek": 646,
+    "timeMonth": 644,
+    "timeYear": 691,
     "dailyMinutesDown": {
       "2024-07-14": 663
     }
@@ -94,11 +93,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
-    "time": 445,
-    "timeDay": 209,
-    "timeWeek": 355,
-    "timeMonth": 426,
-    "timeYear": 455,
+    "time": 446,
+    "timeDay": 563,
+    "timeWeek": 365,
+    "timeMonth": 438,
+    "timeYear": 456,
     "dailyMinutesDown": {
       "2024-07-14": 620
     }
@@ -109,16 +108,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/course-workload-estimator.ltc.bcit.ca.ico",
     "slug": "course-workload-estimator",
     "status": "up",
-    "uptime": "99.89%",
+    "uptime": "99.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
     "time": 378,
-    "timeDay": 147,
-    "timeWeek": 272,
-    "timeMonth": 346,
-    "timeYear": 387,
+    "timeDay": 420,
+    "timeWeek": 297,
+    "timeMonth": 352,
+    "timeYear": 388,
     "dailyMinutesDown": {
       "2024-07-14": 620
     }
@@ -135,9 +134,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.83%",
     "time": 434,
-    "timeDay": 210,
-    "timeWeek": 306,
-    "timeMonth": 364,
+    "timeDay": 415,
+    "timeWeek": 312,
+    "timeMonth": 372,
     "timeYear": 434,
     "dailyMinutesDown": {
       "2024-07-14": 619
