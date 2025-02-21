@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/ltc.bcit.ca.ico",
     "slug": "legacy-ltc",
     "status": "up",
-    "uptime": "99.90%",
+    "uptime": "99.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
     "time": 379,
-    "timeDay": 301,
-    "timeWeek": 456,
-    "timeMonth": 386,
+    "timeDay": 441,
+    "timeWeek": 443,
+    "timeMonth": 394,
     "timeYear": 382,
     "dailyMinutesDown": {
       "2024-07-14": 614,
@@ -32,10 +32,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
     "time": 436,
-    "timeDay": 278,
-    "timeWeek": 505,
-    "timeMonth": 433,
-    "timeYear": 449,
+    "timeDay": 555,
+    "timeWeek": 498,
+    "timeMonth": 444,
+    "timeYear": 450,
     "dailyMinutesDown": {
       "2024-07-14": 621
     }
@@ -52,9 +52,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.27%",
     "time": 694,
-    "timeDay": 553,
-    "timeWeek": 766,
-    "timeMonth": 636,
+    "timeDay": 838,
+    "timeWeek": 743,
+    "timeMonth": 651,
     "timeYear": 722,
     "dailyMinutesDown": {
       "2024-07-16": 1028,
@@ -74,10 +74,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
     "time": 680,
-    "timeDay": 684,
-    "timeWeek": 712,
-    "timeMonth": 655,
-    "timeYear": 692,
+    "timeDay": 828,
+    "timeWeek": 722,
+    "timeMonth": 662,
+    "timeYear": 693,
     "dailyMinutesDown": {
       "2024-07-14": 663
     }
@@ -94,9 +94,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
     "time": 447,
-    "timeDay": 319,
-    "timeWeek": 513,
-    "timeMonth": 452,
+    "timeDay": 480,
+    "timeWeek": 495,
+    "timeMonth": 462,
     "timeYear": 458,
     "dailyMinutesDown": {
       "2024-07-14": 620
@@ -114,9 +114,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
     "time": 380,
-    "timeDay": 277,
-    "timeWeek": 450,
-    "timeMonth": 381,
+    "timeDay": 502,
+    "timeWeek": 457,
+    "timeMonth": 391,
     "timeYear": 390,
     "dailyMinutesDown": {
       "2024-07-14": 620
@@ -133,11 +133,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.83%",
-    "time": 434,
-    "timeDay": 266,
-    "timeWeek": 432,
-    "timeMonth": 385,
-    "timeYear": 434,
+    "time": 435,
+    "timeDay": 577,
+    "timeWeek": 444,
+    "timeMonth": 397,
+    "timeYear": 435,
     "dailyMinutesDown": {
       "2024-07-14": 619
     }
