@@ -4,10 +4,10 @@
     "url": "https://ltc.bcit.ca/multimedia/",
     "icon": "https://icons.duckduckgo.com/ip3/ltc.bcit.ca.ico",
     "slug": "legacy-ltc",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "99.52%",
     "uptimeYear": "99.84%",
     "time": 379,
@@ -16,6 +16,7 @@
     "timeMonth": 402,
     "timeYear": 385,
     "dailyMinutesDown": {
+      "2025-03-24": 2,
       "2025-03-16": 209,
       "2024-07-14": 614,
       "2024-07-12": 19
@@ -26,10 +27,10 @@
     "url": "https://sugar-suite.ltc.bcit.ca",
     "icon": "https://icons.duckduckgo.com/ip3/sugar-suite.ltc.bcit.ca.ico",
     "slug": "sugar-suite",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "99.54%",
     "uptimeYear": "99.84%",
     "time": 448,
@@ -38,6 +39,7 @@
     "timeMonth": 610,
     "timeYear": 464,
     "dailyMinutesDown": {
+      "2025-03-24": 2,
       "2025-03-16": 200,
       "2024-07-14": 621
     }
@@ -47,11 +49,11 @@
     "url": "https://corgi.ltc.bcit.ca",
     "icon": "https://icons.duckduckgo.com/ip3/corgi.ltc.bcit.ca.ico",
     "slug": "corgi",
-    "status": "up",
+    "status": "down",
     "uptime": "99.44%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.55%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.54%",
     "uptimeYear": "99.24%",
     "time": 694,
     "timeDay": 451,
@@ -59,6 +61,7 @@
     "timeMonth": 656,
     "timeYear": 724,
     "dailyMinutesDown": {
+      "2025-03-24": 1,
       "2025-03-16": 199,
       "2024-07-16": 1028,
       "2024-07-15": 1440,
@@ -70,10 +73,10 @@
     "url": "https://h5p.commons.bcit.ca",
     "icon": "https://icons.duckduckgo.com/ip3/h5p.commons.bcit.ca.ico",
     "slug": "commons-h5-p",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
     "time": 685,
@@ -82,6 +85,7 @@
     "timeMonth": 756,
     "timeYear": 700,
     "dailyMinutesDown": {
+      "2025-03-24": 1,
       "2024-07-14": 663
     }
   },
@@ -90,9 +94,9 @@
     "url": "https://conversion-guide.ltc.bcit.ca",
     "icon": "https://icons.duckduckgo.com/ip3/conversion-guide.ltc.bcit.ca.ico",
     "slug": "conversion-guide",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.55%",
     "uptimeYear": "99.84%",
@@ -102,6 +106,7 @@
     "timeMonth": 463,
     "timeYear": 461,
     "dailyMinutesDown": {
+      "2025-03-24": 0,
       "2025-03-16": 198,
       "2024-07-14": 620
     }
