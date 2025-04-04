@@ -4,9 +4,9 @@
     "url": "https://ltc.bcit.ca/multimedia/",
     "icon": "https://icons.duckduckgo.com/ip3/ltc.bcit.ca.ico",
     "slug": "legacy-ltc",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.96%",
     "uptimeWeek": "99.73%",
     "uptimeMonth": "99.46%",
     "uptimeYear": "99.83%",
@@ -16,6 +16,7 @@
     "timeMonth": 403,
     "timeYear": 387,
     "dailyMinutesDown": {
+      "2025-04-04": 1,
       "2025-03-30": 27,
       "2025-03-16": 209,
       "2024-07-14": 614,
@@ -27,9 +28,9 @@
     "url": "https://sugar-suite.ltc.bcit.ca",
     "icon": "https://icons.duckduckgo.com/ip3/sugar-suite.ltc.bcit.ca.ico",
     "slug": "sugar-suite",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.54%",
     "uptimeYear": "99.84%",
@@ -39,6 +40,7 @@
     "timeMonth": 593,
     "timeYear": 466,
     "dailyMinutesDown": {
+      "2025-04-04": 0,
       "2025-03-16": 200,
       "2024-07-14": 621
     }
