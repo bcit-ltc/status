@@ -1,7 +1,7 @@
 url: https://corgi.ltc.bcit.ca
-status: down
-code: 504
-responseTime: 15428
-lastUpdated: 2025-06-19T23:03:43.473Z
+status: up
+code: 200
+responseTime: 661
+lastUpdated: 2025-06-20T18:09:22.590Z
 startTime: 2023-11-15T06:44:28.968Z
 generator: Upptime <https://github.com/upptime/upptime>
