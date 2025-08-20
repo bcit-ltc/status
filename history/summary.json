@@ -13,7 +13,7 @@
     "time": 400,
     "timeDay": 539,
     "timeWeek": 528,
-    "timeMonth": 464,
+    "timeMonth": 466,
     "timeYear": 412,
     "dailyMinutesDown": {
       "2025-08-15": 37,
@@ -120,9 +120,9 @@
     "url": "https://conversion-guide.ltc.bcit.ca",
     "icon": "https://icons.duckduckgo.com/ip3/conversion-guide.ltc.bcit.ca.ico",
     "slug": "conversion-guide",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "99.81%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.93%",
@@ -132,6 +132,7 @@
     "timeMonth": 610,
     "timeYear": 506,
     "dailyMinutesDown": {
+      "2025-08-20": 0,
       "2025-08-14": 19,
       "2025-07-15": 38,
       "2025-05-13": 56,
