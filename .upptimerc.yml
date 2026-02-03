@@ -25,8 +25,8 @@ sites:
     url: https://qcon-api.ltc.bcit.ca
   - name: Sugar Suite
     url: https://sugar-suite.ltc.bcit.ca
-  - name: Sugar Suite - latest
-    url: https://sugar-suite.latest.ltc.bcit.ca # - name: ETS Help Centre
+  # - name: Sugar Suite - latest
+  #   url: https://sugar-suite.latest.ltc.bcit.ca
   - name: ETS Online Help Centre
     url: https://www.techhelpbcit.ca/
 
