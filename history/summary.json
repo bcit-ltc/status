@@ -281,18 +281,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/sugar-suite.latest.ltc.bcit.ca.ico",
     "slug": "sugar-suite-latest",
     "status": "down",
-    "uptime": "6.23%",
-    "uptimeDay": "6.23%",
-    "uptimeWeek": "6.23%",
-    "uptimeMonth": "6.23%",
-    "uptimeYear": "6.23%",
+    "uptime": "3.44%",
+    "uptimeDay": "3.44%",
+    "uptimeWeek": "3.44%",
+    "uptimeMonth": "3.44%",
+    "uptimeYear": "3.44%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-03": 0
+      "2026-02-03": 1
     }
   },
   {
