@@ -281,19 +281,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.techhelpbcit.ca.ico",
     "slug": "ets-online-help-centre",
     "status": "up",
-    "uptime": "90.58%",
-    "uptimeDay": "89.64%",
-    "uptimeWeek": "90.58%",
-    "uptimeMonth": "90.58%",
-    "uptimeYear": "90.58%",
+    "uptime": "91.20%",
+    "uptimeDay": "90.27%",
+    "uptimeWeek": "91.20%",
+    "uptimeMonth": "91.20%",
+    "uptimeYear": "91.20%",
     "time": 429,
     "timeDay": 412,
     "timeWeek": 429,
     "timeMonth": 429,
     "timeYear": 429,
     "dailyMinutesDown": {
-      "2026-02-05": 3,
-      "2026-02-04": 146
+      "2026-02-04": 140
     }
   }
 ]
