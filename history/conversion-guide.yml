@@ -1,7 +1,7 @@
 url: https://conversion-guide.ltc.bcit.ca
-status: up
-code: 200
-responseTime: 701
-lastUpdated: 2026-04-24T23:13:38.910Z
+status: down
+code: 400
+responseTime: 740
+lastUpdated: 2026-04-25T14:48:30.972Z
 startTime: 2023-11-15T06:56:05.747Z
 generator: Upptime <https://github.com/upptime/upptime>
